@@ -133,7 +133,7 @@ export default function Footer() {
         {/* Bottom */}
         <div className="border-t border-white/10 mt-14 pt-6 text-center text-sm text-gray-400">
           {/* © {new Date().getFullYear()} Earlywages. All Rights Reserved. */}
-          © 2026 <span className="text-primary font-semibold">Earlywages</span>. All Rights Reserved.
+          © 2026 <span className="text-primary font-semibold">Junoon Capital Services Private Limited.</span>. All Rights Reserved.
         </div>
       </div>
     </footer>
